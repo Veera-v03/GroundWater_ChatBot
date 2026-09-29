@@ -1,0 +1,48 @@
+query,intent
+What is the groundwater recharge in Hyderabad?,recharge
+How much groundwater is recharged in Hyderabad?,recharge
+What is the total annual groundwater recharge?,recharge
+Tell me the annual groundwater recharge in Karimnagar,recharge
+How much groundwater recharge is there in Adilabad?,recharge
+What is the groundwater recharge of Jagtial?,recharge
+Give me the recharge value for Warangal,recharge
+How much groundwater is available in Hyderabad?,availability
+What is the annual extractable groundwater resource in Hyderabad?,availability
+Tell me the groundwater availability in Karimnagar,availability
+What is the extractable groundwater resource of Adilabad?,availability
+How much groundwater is available for extraction in Jagtial?,availability
+What is the groundwater resource available in Warangal?,availability
+Tell me the annual groundwater resource in Nalgonda,availability
+What is the groundwater extraction in Hyderabad?,extraction
+How much groundwater is extracted in Hyderabad?,extraction
+What is the total annual groundwater extraction in Karimnagar?,extraction
+Tell me the groundwater extraction in Adilabad,extraction
+How much groundwater is extracted for irrigation in Hyderabad?,extraction
+What is the industrial groundwater extraction in Hyderabad?,extraction
+What is the domestic groundwater extraction in Jagtial?,extraction
+How much groundwater is extracted in Warangal?,extraction
+What is the groundwater extraction stage in Hyderabad?,stage
+What percentage of groundwater is extracted in Hyderabad?,stage
+What is the stage of groundwater extraction in Karimnagar?,stage
+Tell me the extraction stage for Adilabad,stage
+What is the groundwater development stage in Jagtial?,stage
+Give me the groundwater extraction percentage for Warangal,stage
+How much of the groundwater resource is being extracted in Nalgonda?,stage
+Which district has the highest groundwater extraction?,comparison
+Which district has the lowest groundwater extraction?,comparison
+Which district has the highest groundwater recharge?,comparison
+Which district has the highest extraction stage?,comparison
+Which district has the most groundwater available?,comparison
+Compare groundwater extraction between Hyderabad and Karimnagar,comparison
+Compare groundwater recharge in Adilabad and Jagtial,comparison
+Which district has the highest irrigation extraction?,comparison
+What is the groundwater status of Hyderabad?,stage
+Tell me about groundwater resources in Karimnagar,availability
+Give me groundwater information for Adilabad,availability
+How much groundwater can be used in Jagtial?,availability
+What is the future groundwater availability in Hyderabad?,future_availability
+How much groundwater is available for future use in Karimnagar?,future_availability
+Tell me the net groundwater availability for future use in Adilabad,future_availability
+What is the future groundwater resource of Jagtial?,future_availability
+How much groundwater remains available for future use?,future_availability
+What is the future groundwater availability in Warangal?,future_availability
